@@ -1,4 +1,4 @@
-# Projek Akhir MSIB Batch 5 Orbit Future Academy
+# Capstone Project MSIB Batch 5 Orbit Future Academy
 ![orbit](https://github.com/hallosayaimroatubelajargithub/kelompok-abhinaya-ofa/assets/107184872/65d56e57-a027-4bce-a155-770a2dd76e93)
 # ParkSense : Parking Lot Occupancy Detection System 
 #### `By : Kelompok Abhinaya`
