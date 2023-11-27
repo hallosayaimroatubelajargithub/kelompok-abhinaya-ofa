@@ -6,7 +6,7 @@ st.set_page_config(
 )
 st.sidebar.success("Select a page above.")
 
-st.markdown('<div class="logo img"><img src="https://scontent.fsrg13-1.fna.fbcdn.net/v/t39.30808-6/245702209_435359388018255_7220637423361619769_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHZyVJKTwjKDjUwvZ4Kt-v0-7PYiA2Z2XD7s9iIDZnZcEQykDtrrrDPj8WQsvxU8blf1x7IrvHBNmcM6JZb6aeF&_nc_ohc=h7iSb7dWeMAAX-jVp3B&_nc_ht=scontent.fsrg13-1.fna&oh=00_AfCSKZLghsFPQ_jGQZ4-UTO1dTzBhbt_hrYGnTmIzcGp4A&oe=6559C643"/></div>', unsafe_allow_html=True)
+st.markdown('<div class="logo img"><img src="https://github.com/hallosayaimroatubelajargithub/kelompok-abhinaya-ofa/blob/main/project/images/orbit.jpg?raw=true"/></div>', unsafe_allow_html=True)
 # Add CSS to display the logo
 st.markdown(
     """
