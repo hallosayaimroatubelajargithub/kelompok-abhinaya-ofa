@@ -11,4 +11,6 @@ Deteksi hunian parkir menggunakan computer vision adalah inovasi untuk mengelola
 
 https://github.com/hallosayaimroatubelajargithub/kelompok-abhinaya-ofa/assets/107184872/214b2d86-8de2-4195-9a37-a543010ab532
 
+Akses Aplikasi Pada Link : https://park-sense-kelompok-abhinaya-ofa.streamlit.app
+
 ![image](https://github.com/hallosayaimroatubelajargithub/kelompok-abhinaya-ofa/assets/107184872/cf47177c-37b8-4352-81b2-207ea772a18f)
